@@ -1,4 +1,4 @@
-public class MergeSort {
+public class Merge {
 
     public static void sort(Comparable[] a) {
         Comparable[] aux = new Comparable[a.length];
